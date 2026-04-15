@@ -1,0 +1,13 @@
+{
+  "name": "oracle-root",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm run browser",
+    "browser": "npm --prefix oracle-app run browser",
+    "app": "npm --prefix oracle-app run app",
+    "build": "npm --prefix oracle-app run build",
+    "backend": "npm --prefix backend run dev",
+    "web": "npm --prefix oracle-app run web"
+  }
+}
