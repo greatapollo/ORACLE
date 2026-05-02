@@ -1,6 +1,17 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+.env
+
+# Node / frontend
 node_modules/
 oracle-app/node_modules/
-backend/node_modules/
+oracle-app/dist/
+
+# Build outputs
 dist/
 build/
-.env
+
+# Logs
+*.log
