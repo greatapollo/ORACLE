@@ -1,23 +1,6 @@
-# Node
 node_modules/
-npm-debug.log*
-
-# Builds
+oracle-app/node_modules/
+backend/node_modules/
 dist/
 build/
-.next/
-.vite/
-
-# Env
 .env
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
-
-# Electron
-out/
-release/
