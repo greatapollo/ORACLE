@@ -7,6 +7,8 @@
     "browser": "npm --prefix oracle-app run browser",
     "app": "npm --prefix oracle-app run app",
     "build": "npm --prefix oracle-app run build",
+    "build:desktop": "npm --prefix oracle-app run build:desktop",
+    "sync:desktop": "npm --prefix oracle-app run sync:desktop",
     "backend": "npm --prefix backend run dev",
     "web": "npm --prefix oracle-app run web"
   }
